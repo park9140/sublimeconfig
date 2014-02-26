@@ -1,6 +1,7 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Monokai Extended Bright (SL).tmTheme",
 	"detect_indentation": true,
 	"draw_indent_guides": true,
@@ -21,6 +22,7 @@
 		"vendor"
 	],
 	"font_face": "monaco",
+	"font_options": "subpixel_antialias",
 	"font_size": 12.0,
 	"highlight_line": true,
 	"ignored_packages":
